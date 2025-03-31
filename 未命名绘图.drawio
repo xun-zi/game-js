@@ -1,9 +1,24 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36" version="26.2.1">
   <diagram name="第 1 页" id="MlXndJzLsMn2LW4qosn8">
-    <mxGraphModel>
+    <mxGraphModel dx="1142" dy="628" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="4681" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="S6AmFKOg1qJyVUJz2NCL-26" value="设备" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="680" y="460" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="S6AmFKOg1qJyVUJz2NCL-27" value="网页" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1050" y="460" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="S6AmFKOg1qJyVUJz2NCL-28" value="后端" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1050" y="300" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="S6AmFKOg1qJyVUJz2NCL-29" value="音频文件" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="700" y="400" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="S6AmFKOg1qJyVUJz2NCL-30" value="音频文件片段" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="690" y="370" width="80" height="15" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
